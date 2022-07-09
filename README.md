@@ -1,7 +1,7 @@
 # Django-Calendar-Events-API
 **API used to fetch google calendar events**.
 
-**You need to add your own client_secret.json file**.
+**You need to replace client_secret.json file with your own client_secret.json file**.
 
 **You can get it from https://console.cloud.google.com/ , then going to APIs section, then in credentials section**.
 
