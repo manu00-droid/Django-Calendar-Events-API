@@ -1,7 +1,7 @@
 # Django-Calendar-Events-API
 API used to fetch google calendar events
 
-used oauth2.0 to get access token for the user and then included the access token in a request to the API in an Authorization HTTP header Bearer value.
+It uses oauth2.0 to get access token for the user and then included the access token in a request to the API in an Authorization HTTP header Bearer value.
 
 Below are detail of API endpoint:
 
