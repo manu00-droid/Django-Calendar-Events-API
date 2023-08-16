@@ -17,8 +17,13 @@ Below are detail of API endpoint:
   b) Fetch events from calendars API.
   
   At the end you recieve a json response
+
+  # Basic Flow
   
-  
+  ![abc drawio (1)](https://github.com/manu00-droid/Django-Calendar-Events-API/assets/79694635/50a3c568-b3f7-44e6-8cc7-65915bfaf6aa)
+
+   # Application Flow
+
 1) User is prompted for his/her credentials
   ![image](https://user-images.githubusercontent.com/79694635/178118959-b9bd514b-ea46-414e-87a5-7f504dd04bee.png)
 
